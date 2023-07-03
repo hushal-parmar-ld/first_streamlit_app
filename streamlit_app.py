@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 import snowflake.connector
 import streamlit
 import requests
